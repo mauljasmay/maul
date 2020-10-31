@@ -3,7 +3,7 @@
 "dialogBtnMainTxt":"Update",
 "dialogOption":"update",
 "openLinkMain":"http://www.jasmaytv.xyz/p/jasmaytv.html",
-"currVersion":"1.1",
+"currVersion":"1.0",
 "openLinkExtra":"null",
 "dialogBtnMainClick":"browser",
 "dialogSubtitle":"update aplikasi anda ke versi 1.1",
@@ -15,4 +15,4 @@
 "isCancelable":"false",
 "email":"mauljasmay2@gmail.com",
 "isOneTimeKey":"null",
-"newVersion":"1.2"}
+"newVersion":"1.1"}
